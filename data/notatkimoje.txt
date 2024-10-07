@@ -2,4 +2,37 @@
 "\\>\\i[85]\\}OMAN WITH A SCARF\\{\\<"
 "\\>\\i[144]\\}ER'KELE\\{\\<"
 "\\>\\i[76]\\}YSTERIOUS PERSON\\{\\<"
+"\\>\\i[64]\\}BELLA\\{\\<"
 Słyszysz cichy pogłos ściętego czarodzieja...
+
+'A' - i[64], "\\>\\i[64]\\}BELLA\\{\\<"
+'B' - i[65]
+'C' - i[66]
+'D' - i[67]
+'E' - i[68]
+'F' - i[69]
+'G' - i[70]
+'H' - i[71]
+'I' - i[72]
+'J' - i[73]
+'K' - i[74]
+'L' - i[75]
+'M' - i[76], "\\>\\i[76]\\}YSTERIOUS PERSON\\{\\<"
+'N' - i[77]
+'O' - i[78]
+'Q' - i[79], '\\>\\i[144]\\}ER'KELE\\{\\<'
+'R' - i[80]
+'S' - i[81]
+'T' - i[82]
+'U' - i[83]
+'V' - i[84]
+'W' - i[85]
+'X' - i[86]
+'Y' - i[87]
+'Z' - i[88]
+'' - i[89]
+
+
+budowa - > i[LITERA] }małe literki{<
+do znaków są potrzebne escape sequence \\
+więc \\> \\i[64] \\} BELLA \\{ \\<

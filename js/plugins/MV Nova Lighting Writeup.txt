@@ -1,0 +1,178 @@
+  * Requires Pixi 4.7.1, included in download.
+  * Game Folder -> JS -> Libs -> Replace your Pixie with the 4.7.1 version.
+  *
+  * To activate the script on a map, do the following:
+  * 1. Put an event onto a map.
+  * 2. In the 'Note' field (Next to the name) put the following text:
+  * 'Light 250 #a25600'
+  * - 250 is the lightradius of the object
+  * - #a25600 is a nice color for torches (Yellow/Orange in this case)
+  * - #FFFFFF is pure white light and not recommended for regular light.
+  * - (PS: #FFFFFF white light works great with the Terrax Legacy option enabled)
+  *
+  * - If You want a white light use a white light with intensity/alpha of 80%
+  * - So 'Light radius 150 #FFFFFF -1 .8' (No id, intensity 80%, -1 means no ID)
+  * - Or 'Light radius 150 #FFFFFF 2 .8' (Id 2, intensity 80%)
+  * 3. You're done, its that simple.
+  *
+  * PS: A nice evil red is '#8F0C00'
+  *
+  * - If you want to "Shut off" your light, simple reduce your radius to 0, example: Fire radius 0 #a25600
+  *
+  * If you want to start with a day time tint, use '0xffffff' in the plugin options.
+  *
+  * If the intensity of the lights are too much, you can make the lights much more basic in the options.
+  * Simply turn on the "Terrax Legacy" plugin option. Recommend to leave light intensity alone with Terrax.
+  * This will make the lights look like default Terrax Lights.
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * There are two flavors of lights.
+  * 1) Lights with no IDs
+  * 2) Lights with IDs
+  *
+  * 1) Lights with no IDs are by default ON (unless told to be off)
+  * - Example: 'Light 250 #a25600'         (No ID, Default on, intensity 100%)
+  * - Example: 'Light 250 #a25600 -1 .9'   (No ID, Default on, intensity 90%)
+  * - '-1' stands for no ID so its default on, used if you need a number to adjust intensity
+  * - Use plugin command 'Light on' or 'Light off' from within event to control light.
+  *
+  * 2) Lights with IDs are by default OFF (unless told to be on)
+  * - Example: 'Light 250 #8F0C00 2'       (ID 2, Default off, intensity 100%)
+  * - Example: 'Light 250 #8F0C00 5 .8'    (ID 5, Default off, intensity 80%)
+  * - These Lights must be told do be on. Use Plugin command 'Light on ID' like 'Light on 2'
+  * - Or you can simply use the Plugin Command 'Light on' from within the event, no need for ID (it knows own ID).
+  *
+  * - There is a tricky situation that may arise with these lights. They are always default on or off.
+  * - In order to control these lights I will show you how you can master these events so that
+  * - they will always be on or off appropriately.
+  * - For this to work you need each map to have an autorun, and need the CE on game load script 'Izy_CommonEventOnLoad'.
+  * - This will be used to call a common event that can tell lights to update itself, details below.
+  * - This game load script is included in the download, I did not create it, so please read the terms and give credit
+  *
+  * Have your map autorun turn on the events selfswitch D to tell each event to set their lights up properly (Script below).
+  * Set this page as the last page in the event and set as an autorun that turns off selfswitch D when its done.
+  * Use selfswitch A to keep track if the Light should be on or off, and selfswitch D to run autorun when on.
+  *
+  * - Based on Selfswitch A, Light on or Light off, Selfswitch D off when the autorun is done
+  * - (If selfswitch A is on: 'Light on' else 'Light off')
+  *
+  * (Important and powerful script)
+  * var m = $gameMap.mapId();
+  * for (var s = 1; s < $dataMap.events.length; s++){
+  *   $gameSelfSwitches.setValue([m, s, 'D'], true);
+  * }
+  *
+  * (This script snippet, takes all the events in the current map and sets their selfswitch D to true)
+  *
+  * - Make this a Common Event, and have the map autoruns, and the game load script, call this.
+  * - if this is too complicated, no worries, I will create a youtube video to walk you through this
+  * - Link:
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * Main take away: all of your maps should have an Autorun that fixes lights with a CE (if using advanced light mechanics)
+  * The game load script will take care of loaded games with the same CE (because autorun would have already run)
+  * NO PARALLELS! lol
+  * Autoruns are MUCH better and can get the job done.
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * To alter the player radius in game use the following plugin command :
+  * Light radius 200 #a25600  (to change the radius and the color)
+  * If you want to change the player radius slowly over time (like a dying torch)
+  * use the command 'Light radiusgrow 200 #a25600'
+  * You can also adjust intensity to 80% 'Light radiusgrow 200 #a25600 .8'
+  *
+  * Recap Basics:
+  * To turn on and off lightsources in the game, do the following:
+  * Give the lightsource the normal def :  Light 250 #a25600 and an extra number
+  * so it becomes 'Light 250 #a25600 1'
+  * To turn on this light use plugin command : 'Light on 1'.
+  * To turn off the light use plugin command : 'Light off 1'.
+  * Events also a reference to their own light even of its numbered.
+  * Simply use 'Light on' or 'Light off' to turn on or turn off a light.
+  * Please Remember IDs are map specific, so you can give the same ID to a different light on a different map.
+  * I recommend that if you want to control all lights of a certain kind, assign them all the same ID.
+  *
+  * With the default Nova lighting enabled (Terrax version off) you have to be mindful of the tinting and intensity of lights
+  * They can become too intense if you use colors that are too bright, the solution?
+  * - Change the intensity of the light
+  * - Use Darker colors
+  * 'Light radius 200 #FFFFFF -1 .5' where .5 is the intensity. Light intensity ranges from 0 to 1
+  *
+  * If you do not want to assign the light an ID, give it ID -1 so 'Light radius 150 #a25600 -1 .9'
+  * so this light with behave as if no ID was given and have an intensity of 90%
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * You can alter the size and color of existing Lights! (plugin command)
+  * light size #color id     (ID is optional)
+  * light 450 #027218        Where Size is now 450 and Color is green
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * Replacing the 'Light' with 'Fire' will give the lights a subtle flicker
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * The plugin command 'Tint set #333333' will make the room less dark.
+  * The plugin command 'Tint fade #777777 5' will fade the color from the current color to the new, the last
+  * The number (5) is the speed of the fade, were 1 is a fast fade and 20 is a very slow one.
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * To use a flashlight effect for player use 'Flashlight on 8 12 #FFFFFF' and 'Flashlight on'
+  * Where 8 = beamlength and 12 = beamwidth
+  * To use a flashlight effect with ID for event use 'Flashlight on 8 12 #FFFFFF 3' and 'Flashlight off' or 'Flashlight on 8 12 #FFFFFF'
+  * Light intensity works the same for flashlights 'light radius color id alpha'.
+  *
+  * Again, if the intensity of the lights are too much, you can make the lights much more basic in the options.
+  * Simply turn on the "Terrax Legacy" plugin option. Leave Light intensity at 100% in this mode
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * If you want to lower strain on computer lower the bit map resolution.
+  * Lights closer together requires more computation.
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * This Plugin is compatible with Yanfly Copy Event and Spawn Event.
+  * It is highly recommended that you use these plugins to maximize your lighting mechanics.
+  *
+  * The Killer Gin will create videos on Youtube to help with the basics
+  * and also to help illustrate how to maximize the plugins potential.
+  * Video: https://youtu.be/2OvKN_SuT4g
+  *
+  * Link to Yanfly Copy Event (Highly Recommended!): https://www.youtube.com/watch?v=LimmJm_4bYE&ab_channel=YanflyEngine
+  * Link to Yanfly Spawn Event (Highly Recommended!): https://www.youtube.com/watch?v=ER1ZvfAjUXc&ab_channel=YanflyEngine
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * You can now SWITCH betwen Nova Lighting Style and Terrax Style at ANYTIME in the game!
+  * (Script calls)
+  *
+  * "Anisoft.Nova.TerraxLighting = true;" Change to Terrax Style
+  *
+  * "Anisoft.Nova.TerraxLighting = false;" Change back to Nova Style
+  *
+  * Oh yeah, you may notice a plugin option to force 100 light intensity, I used that as a shortcut to move between the two styles
+  * However, this is not necessary and might be removed in the next version, because you can update lights manually.
+  * Remember, you can use plugin commands to alter a lights size and color at anytime so this is not needed.
+  *
+  *
+  * Incoming, Nova Lighting DEMO and diagonal Flashlights! (In case you are using an Q- 8 movement plugin)
+  *
+  * ////////////////////////////////////////////////////////////////////////////
+  *
+  * /////////////
+  * Terms of Use:
+  * /////////////
+  * 1) This Plugin is a collaboration between the Killer Gin and Dairnon, you must credit us in your game credits page.
+  * 2) This Plugin is a paid plugin, you must have purchased this plugin on STEAM or Itch.io to use.
+  * 3) You may edit and patch the code.
+  * 4) Code may not be redistributed.
+  *
+  * Please report to thekillergin at gmail.com if someone is using this code without permission.
+  *
+  * Special thanks to everyone in the rpgmakerweb community for idea's, support and interest.
