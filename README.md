@@ -1,4 +1,4 @@
-> Miro Haverinen, if you are reading this, I beg you to contact me in terms of legality of what I'm doing.
+> Miro Haverinen, if you are reading this, I'm sorry.
 # W skrócie / In summary
 ### Polski
 Obecnie rozwijający się projekt osobisty do gry *"Fear & Hunger 2: Termina"*, którego celem jest **całkowite** spieprzenie gry.
