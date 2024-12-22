@@ -30,6 +30,7 @@ Memes.
 # Credits
 - [ScorpGaming4432](https://github.com/ScorpGaming4432) - autor projektu, główne tłumaczenie, własnoręczne edytowanie plików / author of the project, main translator, file editor.
 - Mój drogi przyjaciel / My dear friend - inspiracja na pomysł zaczęcia projektu / inspiration for the idea of this project.
+- Avril bo kocha memy kropka
 
 ## Wielkie podziękowania dla: / Huge thanks go to:
 - [@Miro Haverinen](https://x.com/happy_paintings) - twórca i właściciel gry / game's creator and owner.
