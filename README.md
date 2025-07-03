@@ -22,7 +22,7 @@ A personal project aimed at **fully** translating all in-game text of *Fear & Hu
 # Dlaczego to robię? / Why Am I Doing This?
 
 ### 🇵🇱 Polski
-Mój kolega miał problemy ze zrozumieniem gry po angielsku, więc postanowiłxm znaleźć spolszczenie. Ku mojemu (nie)zdziwieniu — takie nie istniało. Gra jest niszowym tytułem indie, więc nie spodziewałxm się profesjonalnego tłumaczenia... więc biorę sprawy w swoje ręce.  
+Mój kolega miał problemy ze zrozumieniem gry po angielsku, więc postanowiłam znaleźć spolszczenie. Ku mojemu (nie)zdziwieniu — takie nie istniało. Gra jest niszowym tytułem indie, więc nie spodziewałxm się profesjonalnego tłumaczenia... więc biorę sprawy w swoje ręce.  
 Moim celem jest ułatwienie zrozumienia fabuły oraz lokalizacja różnych elementów gry. Nie zamierzam nadużywać twórczości Miro — chcę jedynie wspomóc społeczność gry.
 
 ### 🇬🇧 English
