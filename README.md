@@ -15,7 +15,7 @@ A personal project aimed at **fully** translating all in-game text of *Fear & Hu
 <!-- The following line is auto-updated from translation_status.txt -->
 
 **Current translation progress:**  
-`Total: 1916/321084 translated (0.60%)`
+`Total: 8853/70136 translated (12.62%)`
 
 ---
 
