@@ -2520,7 +2520,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["\"Yellow + Oil = Highly flammable\""]
+        "parameters": ["\"Yellow + Olej = Highly flammable\""]
       },
       {
         "code": 401,
@@ -3394,7 +3394,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Znajdujesz \\c[2]Lucky coin\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Grosik\\c[0]!"]
       },
       { "code": 126, "indent": 3, "parameters": [59, 0, 0, 1] },
       { "code": 119, "indent": 3, "parameters": ["END_OF_ITEMS"] },
@@ -3500,7 +3500,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz vial of \\c[2]Oil\\c[0]!"]
+        "parameters": ["Znajdujesz fiolkę \\c[2]Oleju\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [12, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3560,7 +3560,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz \\c[2]White vial\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Białą fiolkę\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [52, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -3616,7 +3616,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Znajdujesz \\c[2]Lucky coin\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Grosik\\c[0]!"]
       },
       { "code": 126, "indent": 2, "parameters": [59, 0, 0, 1] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -3830,7 +3830,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz \\c[2]Mushroom stew\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Zupę grzybową\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [168, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4612,7 +4612,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz \\c[2]White vial\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Białą fiolkę\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [52, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4624,7 +4624,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Znajdujesz \\c[2]Lucky coin\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Grosik\\c[0]!"]
       },
       { "code": 126, "indent": 2, "parameters": [59, 0, 0, 1] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -4822,7 +4822,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz \\c[2]White vial\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Białą fiolkę\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [52, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -4834,7 +4834,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Znajdujesz \\c[2]Lucky coin\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Grosik\\c[0]!"]
       },
       { "code": 126, "indent": 2, "parameters": [59, 0, 0, 1] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -10373,7 +10373,14 @@
         "code": 401,
         "indent": 29,
         "parameters": [
-          "Zastanawiasz się, czy kiedykolwiek uda ci się zostawić tę przeszłość za sobą."
+          "Zastanawiasz się, czy kiedykolwiek uda ci się zostawić"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 29,
+        "parameters": [
+          "tę przeszłość za sobą."
         ]
       },
       { "code": 121, "indent": 29, "parameters": [2082, 2082, 0] },
@@ -10451,24 +10458,31 @@
       {
         "code": 401,
         "indent": 32,
-        "parameters": [
-          "You check the functionality of the trenchgun without even thinking "
-        ]
+        "parameters": ["Bez namysłu napinasz karabin. Przyzwyczajenia biorą"]
       },
       {
         "code": 401,
         "indent": 32,
-        "parameters": [
-          "about it. Your old habits are kicking in. The gun creates a familiar "
-        ]
+        "parameters": ["nad tobą górę. Broń sprawia, że powraca ci dawne"]
       },
-      { "code": 401, "indent": 32, "parameters": ["feeling of safety."] },
+      {
+        "code": 401,
+        "indent": 32,
+        "parameters": ["poczucie pewności i bezpieczeństwa."]
+      },
       { "code": 101, "indent": 32, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 32,
         "parameters": [
-          "You wonder if you'll ever be able to leave that past behind."
+          "Zastanawiasz się, czy kiedykolwiek uda ci się zostawić"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 32,
+        "parameters": [
+          "tę przeszłość za sobą."
         ]
       },
       { "code": 121, "indent": 32, "parameters": [2082, 2082, 0] },
@@ -20699,7 +20713,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Sacrifice", "Show love", "Pray", "Leave"], -1, 0, 2, 0]
+        "parameters": [["Sacrifice", "Show love", "Pray", "Odejdź"], -1, 0, 2, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Sacrifice"] },
       { "code": 111, "indent": 1, "parameters": [8, 55] },
@@ -22307,7 +22321,7 @@
         "code": 102,
         "indent": 1,
         "parameters": [
-          ["Gro-goroth", "Sylvian", "Alll-mer", "Leave"],
+          ["Gro-goroth", "Sylvian", "Alll-mer", "Odejdź"],
           -1,
           0,
           2,
@@ -22395,11 +22409,11 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -22823,7 +22837,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Znajdujesz \\c[2]Mushroom stew\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Zupę grzybową\\c[0]!"]
       },
       { "code": 126, "indent": 2, "parameters": [168, 0, 0, 1] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -29438,7 +29452,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz 2 \\c[2]White vials\\c[0]!"]
+        "parameters": ["Znajdujesz 2 \\c[2]Białe fiolki\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [52, 0, 0, 2] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -29838,7 +29852,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Sacrifice", "Show love", "Pray", "Leave"], -1, 0, 2, 0]
+        "parameters": [["Sacrifice", "Show love", "Pray", "Odejdź"], -1, 0, 2, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Sacrifice"] },
       { "code": 111, "indent": 1, "parameters": [8, 55] },
@@ -31446,7 +31460,7 @@
         "code": 102,
         "indent": 1,
         "parameters": [
-          ["Gro-goroth", "Sylvian", "Alll-mer", "Leave"],
+          ["Gro-goroth", "Sylvian", "Alll-mer", "Odejdź"],
           -1,
           0,
           2,
@@ -31534,11 +31548,11 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -31680,7 +31694,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Sacrifice", "Show love", "Pray", "Leave"], -1, 0, 2, 0]
+        "parameters": [["Sacrifice", "Show love", "Pray", "Odejdź"], -1, 0, 2, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Sacrifice"] },
       { "code": 111, "indent": 1, "parameters": [8, 55] },
@@ -33289,7 +33303,7 @@
         "code": 102,
         "indent": 1,
         "parameters": [
-          ["Gro-goroth", "Sylvian", "Alll-mer", "Leave"],
+          ["Gro-goroth", "Sylvian", "Alll-mer", "Odejdź"],
           -1,
           0,
           2,
@@ -33377,11 +33391,11 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -35737,7 +35751,7 @@
       {
         "code": 401,
         "indent": 11,
-        "parameters": ["Alll-Mer blesses you with an \\c[2]Oil\\c[0]!"]
+        "parameters": ["Alll-Mer blesses you with an \\c[2]Olej\\c[0]!"]
       },
       { "code": 126, "indent": 11, "parameters": [12, 0, 0, 1] },
       { "code": 320, "indent": 11, "parameters": [25, "First verse"] },
@@ -36755,7 +36769,7 @@
       {
         "code": 401,
         "indent": 50,
-        "parameters": ["Alll-Mer blesses you with a \\c[2]White vial\\c[0]!"]
+        "parameters": ["Alll-Mer blesses you with a \\c[2]Białą fiolkę\\c[0]!"]
       },
       { "code": 126, "indent": 50, "parameters": [52, 0, 0, 1] },
       { "code": 320, "indent": 50, "parameters": [25, "First verse"] },
@@ -50873,7 +50887,7 @@
             "Level 7 - Catacombs",
             "Ancient city - Grand library",
             "Ancient city - Tower of Endless",
-            "Leave"
+            "Odejdź"
           ],
           -1,
           0,
@@ -51061,7 +51075,7 @@
       { "code": 121, "indent": 1, "parameters": [410, 410, 1] },
       { "code": 113, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [5, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [5, "Odejdź"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -66042,7 +66056,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Sacrifice", "Show love", "Pray", "Leave"], -1, 0, 2, 0]
+        "parameters": [["Sacrifice", "Show love", "Pray", "Odejdź"], -1, 0, 2, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Sacrifice"] },
       { "code": 111, "indent": 1, "parameters": [8, 55] },
@@ -67650,7 +67664,7 @@
         "code": 102,
         "indent": 1,
         "parameters": [
-          ["Gro-goroth", "Sylvian", "Alll-mer", "Leave"],
+          ["Gro-goroth", "Sylvian", "Alll-mer", "Odejdź"],
           -1,
           0,
           2,
@@ -67738,11 +67752,11 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -70265,7 +70279,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["The pinecone pig brought you a \\c[2]White vial\\c[0]!"]
+        "parameters": ["The pinecone pig brought you a \\c[2]Białą fiolkę\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [52, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -73356,7 +73370,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Sacrifice", "Show love", "Pray", "Leave"], -1, 0, 2, 0]
+        "parameters": [["Sacrifice", "Show love", "Pray", "Odejdź"], -1, 0, 2, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "Sacrifice"] },
       { "code": 111, "indent": 1, "parameters": [8, 55] },
@@ -74964,7 +74978,7 @@
         "code": 102,
         "indent": 1,
         "parameters": [
-          ["Gro-goroth", "Sylvian", "Alll-mer", "Leave"],
+          ["Gro-goroth", "Sylvian", "Alll-mer", "Odejdź"],
           -1,
           0,
           2,
@@ -75052,11 +75066,11 @@
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 404, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [3, "Odejdź"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -77957,28 +77971,31 @@
       {
         "code": 401,
         "indent": 34,
-        "parameters": [
-          "You check the functionality of the trenchgun without even "
-        ]
+        "parameters": ["Bez namysłu napinasz karabin. Przyzwyczajenia biorą"]
       },
       {
         "code": 401,
         "indent": 34,
-        "parameters": [
-          "thinking about it. Your old habits are kicking in. The gun"
-        ]
+        "parameters": ["nad tobą górę. Broń sprawia, że powraca ci dawne"]
       },
       {
         "code": 401,
         "indent": 34,
-        "parameters": ["creates a familiar feeling of safety."]
+        "parameters": ["poczucie pewności i bezpieczeństwa."]
       },
       { "code": 101, "indent": 34, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 34,
         "parameters": [
-          "You wonder if you'll ever be able to leave that past behind."
+          "Zastanawiasz się, czy kiedykolwiek uda ci się zostawić"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 34,
+        "parameters": [
+          "tę przeszłość za sobą."
         ]
       },
       { "code": 121, "indent": 34, "parameters": [2082, 2082, 0] },
@@ -92665,7 +92682,7 @@
     "list": [
       { "code": 111, "indent": 0, "parameters": [0, 97, 0] },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["\\>\\i[67]\\}OZO\\{\\<"] },
+      { "code": 401, "indent": 1, "parameters": ["\\>\\i[67]\\}OZORCA\\{\\<"] },
       { "code": 401, "indent": 1, "parameters": ["\"A ty do kąd?!\""] },
       { "code": 121, "indent": 1, "parameters": [97, 97, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -100183,7 +100200,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz \\c[2]White vial\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Białą fiolkę\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [52, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -110213,7 +110230,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "attack. You can affect your chances by throwing a \\c[2]Lucky coin\\c[0] into "
+          "attack. You can affect your chances by throwing a \\c[2]Grosik\\c[0] into "
         ]
       },
       {
@@ -115162,7 +115179,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz vial of \\c[2]Oil\\c[0]!"]
+        "parameters": ["Znajdujesz fiolkę \\c[2]Oleju\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [12, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -116209,8 +116226,8 @@
       { "code": 121, "indent": 1, "parameters": [410, 410, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
-      { "code": 102, "indent": 0, "parameters": [["Leave"], -1, 0, 2, 0] },
-      { "code": 402, "indent": 0, "parameters": [0, "Leave"] },
+      { "code": 102, "indent": 0, "parameters": [["Odejdź"], -1, 0, 2, 0] },
+      { "code": 402, "indent": 0, "parameters": [0, "Odejdź"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -116614,7 +116631,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "chef Andérs' famous \\c[2]Goulash\\c[0] and \\c[2]Mushroom stew\\c[0]!"
+          "chef Andérs' famous \\c[2]Goulash\\c[0] and \\c[2]Zupę grzybową\\c[0]!"
         ]
       },
       { "code": 230, "indent": 0, "parameters": [20] },
@@ -123266,7 +123283,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["\"Is anyone out there?\"", "Leave"], -1, 0, 2, 0]
+        "parameters": [["\"Is anyone out there?\"", "Odejdź"], -1, 0, 2, 0]
       },
       {
         "code": 402,
@@ -124651,7 +124668,7 @@
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 119, "indent": 1, "parameters": ["END"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
       { "code": 118, "indent": 1, "parameters": ["END"] },
       {
         "code": 232,
@@ -124860,7 +124877,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["\"Is anyone out there?\"", "Leave"], -1, 0, 2, 0]
+        "parameters": [["\"Is anyone out there?\"", "Odejdź"], -1, 0, 2, 0]
       },
       {
         "code": 402,
@@ -126962,7 +126979,7 @@
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 119, "indent": 1, "parameters": ["END"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
       { "code": 118, "indent": 1, "parameters": ["END"] },
       {
         "code": 232,
@@ -135791,7 +135808,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz \\c[2]Lucky coin\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Grosik\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [59, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -140775,7 +140792,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Znajdujesz \\c[2]Lucky coin\\c[0]!"]
+        "parameters": ["Znajdujesz \\c[2]Grosik\\c[0]!"]
       },
       { "code": 126, "indent": 1, "parameters": [59, 0, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -162954,7 +162971,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["\"Is anyone out there?\"", "Leave"], -1, 0, 2, 0]
+        "parameters": [["\"Is anyone out there?\"", "Odejdź"], -1, 0, 2, 0]
       },
       {
         "code": 402,
@@ -163761,7 +163778,7 @@
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 119, "indent": 1, "parameters": ["END"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
       { "code": 118, "indent": 1, "parameters": ["END"] },
       {
         "code": 232,
@@ -163794,7 +163811,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["\"Is anyone out there?\"", "Leave"], -1, 0, 2, 0]
+        "parameters": [["\"Is anyone out there?\"", "Odejdź"], -1, 0, 2, 0]
       },
       {
         "code": 402,
@@ -164481,7 +164498,7 @@
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 119, "indent": 1, "parameters": ["END"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
       { "code": 118, "indent": 1, "parameters": ["END"] },
       {
         "code": 232,
@@ -190723,7 +190740,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["\\n[13]", "\\n[14]", "Leave"], -1, 0, 2, 0]
+        "parameters": [["\\n[13]", "\\n[14]", "Odejdź"], -1, 0, 2, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "\\n[13]"] },
       { "code": 108, "indent": 1, "parameters": ["MARCOH"] },
@@ -190765,7 +190782,7 @@
         "parameters": [2, 0, 0, 0, 134, 10, 90, 90, 255, 0, 7, true]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Odejdź"] },
       { "code": 119, "indent": 1, "parameters": ["SKIP_PHOTOS"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
@@ -191091,7 +191108,7 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["\\n[13]", "\\n[14]", "Leave"], -1, 0, 2, 0]
+        "parameters": [["\\n[13]", "\\n[14]", "Odejdź"], -1, 0, 2, 0]
       },
       { "code": 402, "indent": 0, "parameters": [0, "\\n[13]"] },
       { "code": 108, "indent": 1, "parameters": ["MARCOH"] },
@@ -191167,7 +191184,7 @@
         "parameters": [3, "ending_journalist", 0, 0, 134, 10, 90, 90, 255, 0]
       },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Leave"] },
+      { "code": 402, "indent": 0, "parameters": [2, "Odejdź"] },
       { "code": 119, "indent": 1, "parameters": ["SKIP_PHOTOS"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
@@ -192504,7 +192521,7 @@
         "code": 356,
         "indent": 2,
         "parameters": [
-          "GabText The pinecone pig brought you a \\c[2]Lucky coin\\c[0]!"
+          "GabText The pinecone pig brought you a \\c[2]Grosik\\c[0]!"
         ]
       },
       { "code": 356, "indent": 2, "parameters": ["ShowGab"] },

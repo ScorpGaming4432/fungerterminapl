@@ -5272,7 +5272,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -5309,7 +5309,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -5681,7 +5681,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -5718,7 +5718,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -6091,7 +6091,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -6128,7 +6128,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -13290,7 +13290,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -13299,7 +13299,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him"
+                  "Pobij"
                 ],
                 -1,
                 0,
@@ -13319,7 +13319,7 @@
               "parameters": [1, "Use \\c[2]Heart flower\\c[0]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -13338,7 +13338,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -13361,7 +13361,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -13572,7 +13572,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -13581,7 +13581,7 @@
                 [
                   "Use \\c[2]Devour\\c[0]",
                   "Use \\c[2]Soul stone\\c[0]",
-                  "Beat him"
+                  "Pobij"
                 ],
                 -1,
                 0,
@@ -13698,7 +13698,7 @@
             { "code": 121, "indent": 1, "parameters": [177, 177, 0] },
             { "code": 113, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -13717,7 +13717,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Demon seed\\c[0]",
                   "Harvest an organ",
                   "Saw off his head"
@@ -13739,7 +13739,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -14339,7 +14339,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Open it", "Leave"], 1, 0, 2, 0]
+              "parameters": [["Open it", "Odejdź"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Open it"] },
             { "code": 121, "indent": 1, "parameters": [410, 410, 0] },
@@ -14534,7 +14534,7 @@
             { "code": 121, "indent": 1, "parameters": [22, 22, 1] },
             { "code": 121, "indent": 1, "parameters": [410, 410, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -17822,7 +17822,7 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Use it", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Use it", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "Use it"] },
             {
@@ -17840,7 +17840,7 @@
             { "code": 121, "indent": 2, "parameters": [190, 190, 0] },
             { "code": 121, "indent": 2, "parameters": [3200, 3200, 0] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -17874,7 +17874,7 @@
               "code": 102,
               "indent": 2,
               "parameters": [
-                ["Use it", "Force the door open", "Leave"],
+                ["Use it", "Force the door open", "Odejdź"],
                 -1,
                 0,
                 2,
@@ -18033,7 +18033,7 @@
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 604, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [2, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -18059,7 +18059,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Force the door open", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Force the door open", "Odejdź"], -1, 0, 2, 0]
             },
             {
               "code": 402,
@@ -18196,7 +18196,7 @@
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 604, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -20171,7 +20171,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Attack him", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Attack him", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Attack him"] },
             { "code": 108, "indent": 1, "parameters": ["<follower touch>"] },
@@ -20243,7 +20243,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 604, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -20718,7 +20718,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -20727,7 +20727,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -20790,7 +20790,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -20962,7 +20962,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -20985,7 +20985,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -21234,7 +21234,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -21243,7 +21243,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -21282,7 +21282,7 @@
             },
             { "code": 401, "indent": 1, "parameters": ["yet."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -21454,7 +21454,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -21477,7 +21477,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -21723,7 +21723,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -21732,7 +21732,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -21753,7 +21753,7 @@
               "parameters": [1, "Use \\c[2]Heart flower\\c[0]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -21925,7 +21925,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -21948,7 +21948,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -22120,7 +22120,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -22142,7 +22142,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2108, 2108, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -22200,7 +22200,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -22222,7 +22222,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2109, 2109, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -23667,7 +23667,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -23676,7 +23676,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -23739,7 +23739,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -23913,7 +23913,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -23936,7 +23936,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -24245,7 +24245,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -24254,7 +24254,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -24317,7 +24317,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -24491,7 +24491,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -24514,7 +24514,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -24746,7 +24746,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -24755,7 +24755,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -24818,7 +24818,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -24992,7 +24992,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -25015,7 +25015,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -25192,7 +25192,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -25214,7 +25214,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2116, 2116, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -25272,7 +25272,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -25294,7 +25294,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2117, 2117, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -27521,7 +27521,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Attack him", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Attack him", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Attack him"] },
             { "code": 108, "indent": 1, "parameters": ["<follower touch>"] },
@@ -27579,7 +27579,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 604, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -28007,7 +28007,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -28016,7 +28016,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him"
+                  "Pobij"
                 ],
                 -1,
                 0,
@@ -28036,7 +28036,7 @@
               "parameters": [1, "Use \\c[2]Heart flower\\c[0]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -28054,7 +28054,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -28077,7 +28077,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -28364,7 +28364,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -28373,7 +28373,7 @@
                 [
                   "Use \\c[2]Devour\\c[0]",
                   "Use \\c[2]Soul stone\\c[0]",
-                  "Beat him"
+                  "Pobij"
                 ],
                 -1,
                 0,
@@ -28490,7 +28490,7 @@
             { "code": 121, "indent": 1, "parameters": [114, 114, 0] },
             { "code": 113, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -28508,7 +28508,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Demon seed\\c[0]",
                   "Harvest an organ",
                   "Saw off his head"
@@ -28530,7 +28530,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -29818,7 +29818,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -29827,7 +29827,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -29890,7 +29890,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -30006,7 +30006,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -30041,7 +30041,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -30276,7 +30276,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -30285,7 +30285,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -30348,7 +30348,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -30464,7 +30464,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -30499,7 +30499,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -30735,7 +30735,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -30744,7 +30744,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -30807,7 +30807,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -30923,7 +30923,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -30958,7 +30958,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -31139,7 +31139,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -31161,7 +31161,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2118, 2118, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -31219,7 +31219,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -31241,7 +31241,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2119, 2119, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -31884,7 +31884,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Attack her", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Attack her", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Attack her"] },
             { "code": 108, "indent": 1, "parameters": ["<follower touch>"] },
@@ -31942,7 +31942,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 604, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -32389,7 +32389,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -32635,7 +32635,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -32658,7 +32658,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -32907,7 +32907,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -33129,7 +33129,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -33152,7 +33152,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -33402,7 +33402,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The monstrosity is down..."]
+              "parameters": ["Potwór został pokonany..."]
             },
             {
               "code": 102,
@@ -33606,7 +33606,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -33629,7 +33629,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -33818,7 +33818,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -33840,7 +33840,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2104, 2104, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -33898,7 +33898,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -33920,7 +33920,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2105, 2105, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -34475,7 +34475,7 @@
                   "Investigate",
                   "Search",
                   "Use \\c[2]Necromancy\\c[0]",
-                  "Leave"
+                  "Odejdź"
                 ],
                 -1,
                 0,
@@ -34526,7 +34526,7 @@
             {
               "code": 102,
               "indent": 3,
-              "parameters": [["Feel it", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Feel it", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 3, "parameters": [0, "Feel it"] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -34540,7 +34540,7 @@
             { "code": 126, "indent": 4, "parameters": [26, 0, 0, 1] },
             { "code": 121, "indent": 4, "parameters": [2887, 2887, 0] },
             { "code": 0, "indent": 4, "parameters": [] },
-            { "code": 402, "indent": 3, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 3, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 404, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -34567,7 +34567,7 @@
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -34590,7 +34590,7 @@
                   "Investigate",
                   "Search",
                   "Use \\c[2]Necromancy\\c[0]",
-                  "Leave"
+                  "Odejdź"
                 ],
                 -1,
                 0,
@@ -34641,7 +34641,7 @@
             {
               "code": 102,
               "indent": 4,
-              "parameters": [["Feel it", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Feel it", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 4, "parameters": [0, "Feel it"] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -34655,7 +34655,7 @@
             { "code": 126, "indent": 5, "parameters": [26, 0, 0, 1] },
             { "code": 121, "indent": 5, "parameters": [2887, 2887, 0] },
             { "code": 0, "indent": 5, "parameters": [] },
-            { "code": 402, "indent": 4, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 4, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 404, "indent": 4, "parameters": [] },
             { "code": 0, "indent": 4, "parameters": [] },
@@ -34675,7 +34675,7 @@
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -34692,7 +34692,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Investigate", "Search", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Investigate", "Search", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Investigate"] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -34737,7 +34737,7 @@
             {
               "code": 102,
               "indent": 4,
-              "parameters": [["Feel it", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Feel it", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 4, "parameters": [0, "Feel it"] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -34751,13 +34751,13 @@
             { "code": 126, "indent": 5, "parameters": [26, 0, 0, 1] },
             { "code": 121, "indent": 5, "parameters": [2887, 2887, 0] },
             { "code": 0, "indent": 5, "parameters": [] },
-            { "code": 402, "indent": 4, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 4, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 404, "indent": 4, "parameters": [] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 412, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [2, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -35394,7 +35394,7 @@
                   "Investigate",
                   "Search",
                   "Use \\c[2]Necromancy\\c[0]",
-                  "Leave"
+                  "Odejdź"
                 ],
                 -1,
                 0,
@@ -35445,7 +35445,7 @@
             {
               "code": 102,
               "indent": 3,
-              "parameters": [["Feel it", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Feel it", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 3, "parameters": [0, "Feel it"] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -35459,7 +35459,7 @@
             { "code": 126, "indent": 4, "parameters": [26, 0, 0, 1] },
             { "code": 121, "indent": 4, "parameters": [2887, 2887, 0] },
             { "code": 0, "indent": 4, "parameters": [] },
-            { "code": 402, "indent": 3, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 3, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 404, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -35486,7 +35486,7 @@
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -35509,7 +35509,7 @@
                   "Investigate",
                   "Search",
                   "Use \\c[2]Necromancy\\c[0]",
-                  "Leave"
+                  "Odejdź"
                 ],
                 -1,
                 0,
@@ -35560,7 +35560,7 @@
             {
               "code": 102,
               "indent": 4,
-              "parameters": [["Feel it", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Feel it", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 4, "parameters": [0, "Feel it"] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -35574,7 +35574,7 @@
             { "code": 126, "indent": 5, "parameters": [26, 0, 0, 1] },
             { "code": 121, "indent": 5, "parameters": [2887, 2887, 0] },
             { "code": 0, "indent": 5, "parameters": [] },
-            { "code": 402, "indent": 4, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 4, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 404, "indent": 4, "parameters": [] },
             { "code": 0, "indent": 4, "parameters": [] },
@@ -35594,7 +35594,7 @@
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -35611,7 +35611,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Investigate", "Search", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Investigate", "Search", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Investigate"] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -35656,7 +35656,7 @@
             {
               "code": 102,
               "indent": 4,
-              "parameters": [["Feel it", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Feel it", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 4, "parameters": [0, "Feel it"] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -35670,13 +35670,13 @@
             { "code": 126, "indent": 5, "parameters": [26, 0, 0, 1] },
             { "code": 121, "indent": 5, "parameters": [2887, 2887, 0] },
             { "code": 0, "indent": 5, "parameters": [] },
-            { "code": 402, "indent": 4, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 4, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 404, "indent": 4, "parameters": [] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 412, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [2, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -44888,7 +44888,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -44900,7 +44900,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -44954,7 +44954,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -44966,7 +44966,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -45020,7 +45020,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -45032,7 +45032,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -45086,7 +45086,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -45098,7 +45098,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -45152,7 +45152,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -45164,7 +45164,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -45218,7 +45218,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -45230,7 +45230,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -45284,7 +45284,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -45296,7 +45296,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -45350,7 +45350,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Pick them up", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Pick them up", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Pick them up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -45362,7 +45362,7 @@
             { "code": 126, "indent": 1, "parameters": [142, 0, 0, 2] },
             { "code": 122, "indent": 1, "parameters": [2460, 2460, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

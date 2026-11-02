@@ -300,12 +300,12 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A vial full of oil that is somewhat flammable.",
+    "description": "Fiolka pełna oleju. Dość łatwopalny.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 182,
     "itypeId": 1,
-    "name": "Oil",
+    "name": "Olej",
     "note": "\n\n\n\n\n<Picture: icon_blackvial>\n<Menu Category: Przedmioty>",
     "occasion": 3,
     "price": 0,
@@ -1581,12 +1581,12 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Moneta używana w kryzysowych sytuacjach. Przytrzymaj [SHIFT] \npodczas wybierania głowy lub reszki, aby zwiększyć swoje szanse.",
+    "description": "Moneta używana w kryzysowych sytuacjach. Przytrzymaj [SHIFT] \npodczas wybierania orła lub reszki, aby zwiększyć swoje szanse.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 199,
     "itypeId": 1,
-    "name": "Moneta Szczęścia",
+    "name": "Grosik",
     "note": "\n\n\n\n\n<Picture: icon_thecoin>\n<Menu Category: Przedmioty>",
     "occasion": 3,
     "price": 0,
@@ -4490,7 +4490,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Mushroom stew made from local penny buns.",
+    "description": "Gulasz grzybowy z lokalnych prawdziwków.",
     "effects": [
       { "code": 21, "dataId": 53, "value1": 1, "value2": 0 },
       { "code": 44, "dataId": 33, "value1": 1, "value2": 0 }
@@ -4498,7 +4498,7 @@
     "hitType": 0,
     "iconIndex": 227,
     "itypeId": 1,
-    "name": "Mushroom stew",
+    "name": "Zupa grzybowa",
     "note": "\n\n\n\n\n<Synthesis Ingredients>\nitem 217: 3\n</Synthesis Ingredients>\n<Picture: icon_mushroom_stew>\n<Menu Category: Jedzenie>",
     "occasion": 2,
     "price": 0,
@@ -9219,7 +9219,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Mushroom stew made from local penny buns.",
+    "description": "Gulasz grzybowy z lokalnych prawdziwków, ale lepszy.",
     "effects": [
       { "code": 21, "dataId": 53, "value1": 1, "value2": 0 },
       { "code": 44, "dataId": 33, "value1": 1, "value2": 0 },
@@ -9228,7 +9228,7 @@
     "hitType": 0,
     "iconIndex": 227,
     "itypeId": 1,
-    "name": "Mushroom stew+",
+    "name": "Zupa grzybowa+",
     "note": "\n\n\n\n\n<Synthesis Ingredients>\nitem 217: 3\n</Synthesis Ingredients>\n<Picture: icon_mushroom_stew>\n<Menu Category: Jedzenie>",
     "occasion": 2,
     "price": 0,

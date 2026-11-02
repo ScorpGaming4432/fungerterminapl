@@ -4037,7 +4037,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -4100,7 +4100,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -4157,7 +4157,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -4194,7 +4194,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -4446,7 +4446,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -4509,7 +4509,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -4566,7 +4566,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -4603,7 +4603,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -4856,7 +4856,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -4919,7 +4919,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -4976,7 +4976,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -5013,7 +5013,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -5210,7 +5210,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -5232,7 +5232,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [3778, 3778, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5294,7 +5294,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -5316,7 +5316,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [3779, 3779, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6931,7 +6931,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -6994,7 +6994,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -7051,7 +7051,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -7078,7 +7078,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Lucky coin\\c[0]."
+                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Grosik\\c[0]."
               ]
             },
             { "code": 127, "indent": 2, "parameters": [1, 0, 0, 1, false] },
@@ -7089,7 +7089,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -7341,7 +7341,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -7404,7 +7404,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -7461,7 +7461,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -7488,7 +7488,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Lucky coin\\c[0]."
+                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Grosik\\c[0]."
               ]
             },
             { "code": 127, "indent": 2, "parameters": [1, 0, 0, 1, false] },
@@ -7499,7 +7499,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -7752,7 +7752,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -7815,7 +7815,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -7872,7 +7872,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -7899,7 +7899,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Lucky coin\\c[0]."
+                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Grosik\\c[0]."
               ]
             },
             { "code": 127, "indent": 2, "parameters": [1, 0, 0, 1, false] },
@@ -7910,7 +7910,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -8107,7 +8107,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -8129,7 +8129,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2629, 2629, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8191,7 +8191,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -8213,7 +8213,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2630, 2630, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8373,7 +8373,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["\"Fair enough.\"", "\"Wrong.\"", "Attack him", "Leave"],
+                ["\"Fair enough.\"", "\"Wrong.\"", "Attack him", "Odejdź"],
                 -1,
                 0,
                 2,
@@ -8402,7 +8402,7 @@
             { "code": 402, "indent": 1, "parameters": [2, "Attack him"] },
             { "code": 119, "indent": 2, "parameters": ["JUMP_TO_FIGHT"] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -9321,7 +9321,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["\"Fair enough.\"", "\"Wrong.\"", "Attack him", "Leave"],
+                ["\"Fair enough.\"", "\"Wrong.\"", "Attack him", "Odejdź"],
                 -1,
                 0,
                 2,
@@ -9350,7 +9350,7 @@
             { "code": 402, "indent": 1, "parameters": [2, "Attack him"] },
             { "code": 119, "indent": 2, "parameters": ["JUMP_TO_FIGHT"] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -10521,7 +10521,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -10584,7 +10584,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -10641,7 +10641,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -10668,7 +10668,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Lucky coin\\c[0]."
+                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Grosik\\c[0]."
               ]
             },
             { "code": 127, "indent": 2, "parameters": [1, 0, 0, 1, false] },
@@ -10679,7 +10679,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -10931,7 +10931,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -10994,7 +10994,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -11051,7 +11051,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -11078,7 +11078,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Lucky coin\\c[0]."
+                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Grosik\\c[0]."
               ]
             },
             { "code": 127, "indent": 2, "parameters": [1, 0, 0, 1, false] },
@@ -11089,7 +11089,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -11342,7 +11342,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -11405,7 +11405,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -11462,7 +11462,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -11489,7 +11489,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Lucky coin\\c[0]."
+                "You get a \\c[2]Knife\\c[0], a \\c[2]Meatpie\\c[0], \\c[2]Linen vest\\c[0] and a \\c[2]Grosik\\c[0]."
               ]
             },
             { "code": 127, "indent": 2, "parameters": [1, 0, 0, 1, false] },
@@ -11500,7 +11500,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -11697,7 +11697,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -11719,7 +11719,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2629, 2629, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -11781,7 +11781,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -11803,7 +11803,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2630, 2630, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -12198,7 +12198,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -12235,7 +12235,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -12607,7 +12607,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -12644,7 +12644,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -13017,7 +13017,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -13054,7 +13054,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -13251,7 +13251,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -13273,7 +13273,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2643, 2643, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -13335,7 +13335,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -13357,7 +13357,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2644, 2644, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -16931,7 +16931,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -16994,7 +16994,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -17051,7 +17051,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -17088,7 +17088,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -17340,7 +17340,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -17403,7 +17403,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -17460,7 +17460,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -17497,7 +17497,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -17750,7 +17750,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -17813,7 +17813,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -17870,7 +17870,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -17907,7 +17907,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -18104,7 +18104,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -18126,7 +18126,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2682, 2682, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -18188,7 +18188,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -18210,7 +18210,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2683, 2683, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -18989,7 +18989,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -19052,7 +19052,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -19109,7 +19109,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -19136,7 +19136,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -19152,7 +19152,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -19404,7 +19404,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -19467,7 +19467,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -19524,7 +19524,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -19551,7 +19551,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -19567,7 +19567,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -19820,7 +19820,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -19883,7 +19883,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -19940,7 +19940,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -19967,7 +19967,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -19983,7 +19983,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -20180,7 +20180,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -20202,7 +20202,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2692, 2692, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -20264,7 +20264,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -20286,7 +20286,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2693, 2693, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -22714,7 +22714,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -22777,7 +22777,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -22834,7 +22834,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -22861,7 +22861,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -22877,7 +22877,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -23129,7 +23129,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -23192,7 +23192,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -23249,7 +23249,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -23276,7 +23276,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -23292,7 +23292,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -23545,7 +23545,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -23608,7 +23608,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -23665,7 +23665,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -23692,7 +23692,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -23708,7 +23708,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -23905,7 +23905,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -23927,7 +23927,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2692, 2692, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -23989,7 +23989,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -24011,7 +24011,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2693, 2693, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -24934,7 +24934,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -24997,7 +24997,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -25054,7 +25054,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -25081,7 +25081,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -25097,7 +25097,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -25349,7 +25349,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -25412,7 +25412,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -25469,7 +25469,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -25496,7 +25496,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -25512,7 +25512,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -25765,7 +25765,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -25828,7 +25828,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -25885,7 +25885,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -25912,7 +25912,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -25928,7 +25928,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -26125,7 +26125,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -26147,7 +26147,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2692, 2692, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -26209,7 +26209,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -26231,7 +26231,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2693, 2693, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -28920,7 +28920,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -28983,7 +28983,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -29040,7 +29040,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -29067,7 +29067,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -29083,7 +29083,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -29335,7 +29335,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -29398,7 +29398,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -29455,7 +29455,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -29482,7 +29482,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -29498,7 +29498,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -29751,7 +29751,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -29814,7 +29814,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -29871,7 +29871,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -29898,7 +29898,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Lucky coin\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
+                "You get 20 \\c[2]Shillings\\c[0], a \\c[2]Grosik\\c[0], a \\c[2]Gentleman's hat\\c[0] and"
               ]
             },
             {
@@ -29914,7 +29914,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -30111,7 +30111,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -30133,7 +30133,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2692, 2692, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -30195,7 +30195,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -30217,7 +30217,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2693, 2693, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -39296,7 +39296,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["\"What are you doing?\"", "Attack her", "Leave"],
+                ["\"What are you doing?\"", "Attack her", "Odejdź"],
                 -1,
                 0,
                 2,
@@ -39362,7 +39362,7 @@
               "parameters": ["You absorbed the \\c[2]Caressing soul\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -39436,7 +39436,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["\"What are you doing?\"", "Attack her", "Leave"],
+                ["\"What are you doing?\"", "Attack her", "Odejdź"],
                 -1,
                 0,
                 2,
@@ -39502,7 +39502,7 @@
               "parameters": ["You absorbed the \\c[2]Caressing soul\\c[0]."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -41494,7 +41494,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -41536,7 +41536,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -41908,7 +41908,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -41950,7 +41950,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -42323,7 +42323,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -42365,7 +42365,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -42562,7 +42562,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -42584,7 +42584,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2701, 2701, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -42646,7 +42646,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -42668,7 +42668,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2702, 2702, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -43672,7 +43672,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -43735,7 +43735,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -43792,7 +43792,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -43825,7 +43825,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -44079,7 +44079,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -44142,7 +44142,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -44199,7 +44199,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -44232,7 +44232,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -44487,7 +44487,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -44550,7 +44550,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -44607,7 +44607,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -44640,7 +44640,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -44835,7 +44835,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -44857,7 +44857,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [4282, 4282, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -44915,7 +44915,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -44937,7 +44937,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [4283, 4283, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -46100,7 +46100,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Introduce yourself", "Attack him", "Leave"],
+                ["Introduce yourself", "Attack him", "Odejdź"],
                 -1,
                 0,
                 2,
@@ -46162,7 +46162,7 @@
               "parameters": ["You absorbed the \\c[2]Tainted soul\\c[0]."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 0, "parameters": [0, 2676, 1] },
@@ -47177,7 +47177,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -47240,7 +47240,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -47297,7 +47297,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -47334,7 +47334,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -47586,7 +47586,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -47649,7 +47649,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -47706,7 +47706,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -47743,7 +47743,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -47996,7 +47996,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -48059,7 +48059,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -48116,7 +48116,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -48153,7 +48153,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -48350,7 +48350,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -48372,7 +48372,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2682, 2682, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -48434,7 +48434,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -48456,7 +48456,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2683, 2683, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -48895,7 +48895,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -48950,7 +48950,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -49005,7 +49005,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -49060,7 +49060,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -49195,7 +49195,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -49898,7 +49898,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -49929,7 +49929,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 230, "indent": 0, "parameters": [32] },
             { "code": 121, "indent": 0, "parameters": [3298, 3298, 0] },
@@ -49982,15 +49982,15 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Oh. The sleepy one got up!\""]
+              "parameters": ["\"O. Śniący się przebudził!\""]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
                 [
-                  "\"...What is going on?\"",
-                  "\"I... I need to be going, sorry.\"",
+                  "\"...Co się dzieje??\"",
+                  "\"Ja… Muszę iść, wybaczcie.\"",
                   "\"...\""
                 ],
                 -1,
@@ -50002,14 +50002,14 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [0, "\"...What is going on?\""]
+              "parameters": [0, "\"...Co się dzieje??\""]
             },
             { "code": 121, "indent": 2, "parameters": [3781, 3781, 0] },
             { "code": 0, "indent": 2, "parameters": [] },
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "\"I... I need to be going, sorry.\""]
+              "parameters": [1, "\"Ja… Muszę iść, wybaczcie.\""]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
@@ -50156,7 +50156,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50187,7 +50187,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50200,7 +50200,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50233,7 +50233,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50253,7 +50253,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50304,7 +50304,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50317,7 +50317,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50330,7 +50330,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -50723,7 +50723,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 108, "indent": 0, "parameters": ["INTRODUCTIONS"] },
@@ -51016,7 +51016,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51027,7 +51027,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51093,7 +51093,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51113,7 +51113,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51138,7 +51138,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51261,7 +51261,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51292,7 +51292,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -51356,7 +51356,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Oh. The sleepy one got up!\""]
+              "parameters": ["\"O. Śniący się przebudził!\""]
             },
             {
               "code": 102,
@@ -51528,7 +51528,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51559,7 +51559,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51572,7 +51572,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51605,7 +51605,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51636,7 +51636,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"Mm. Maybe so.\""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -51697,7 +51697,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51710,7 +51710,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -51723,7 +51723,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -52162,7 +52162,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -52458,7 +52458,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -52469,7 +52469,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -52535,7 +52535,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -52555,7 +52555,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -52580,7 +52580,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -52761,7 +52761,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -53123,7 +53123,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"...\""] },
             { "code": 108, "indent": 1, "parameters": ["INTRODUCTIONS"] },
@@ -53520,7 +53520,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -53531,7 +53531,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -53597,7 +53597,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -53617,7 +53617,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -53642,7 +53642,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -53878,7 +53878,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54078,7 +54078,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54092,7 +54092,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54103,7 +54103,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54116,7 +54116,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54147,7 +54147,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54189,7 +54189,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54233,7 +54233,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"Sure thing.\""] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -54246,7 +54246,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54290,7 +54290,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"Sure thing.\""] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -54716,7 +54716,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54747,21 +54747,21 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"Oh?\""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"Well then...\""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54773,7 +54773,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54793,7 +54793,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54805,14 +54805,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"No helping it.\""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54848,7 +54848,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54859,14 +54859,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"...\""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"Can you fix it?\""] },
             {
@@ -54889,7 +54889,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54904,7 +54904,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54918,7 +54918,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -54995,7 +54995,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55026,7 +55026,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 230, "indent": 0, "parameters": [32] },
             { "code": 121, "indent": 0, "parameters": [3298, 3298, 0] },
@@ -55164,7 +55164,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55195,7 +55195,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55208,7 +55208,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55241,7 +55241,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55259,7 +55259,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55270,7 +55270,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55323,7 +55323,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55336,7 +55336,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55349,7 +55349,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -55653,7 +55653,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 108, "indent": 0, "parameters": ["INTRODUCTIONS"] },
@@ -56044,7 +56044,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -56055,7 +56055,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -56121,7 +56121,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -56141,7 +56141,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -56166,7 +56166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -56321,7 +56321,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 230, "indent": 0, "parameters": [8] },
@@ -57474,7 +57474,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -57505,7 +57505,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 230, "indent": 0, "parameters": [32] },
             { "code": 121, "indent": 0, "parameters": [3298, 3298, 0] },
@@ -57654,7 +57654,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -57685,7 +57685,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -57698,7 +57698,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -57727,7 +57727,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -57744,7 +57744,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"No kidding.\""] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -57791,7 +57791,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -57804,7 +57804,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -57817,7 +57817,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -58166,7 +58166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 108, "indent": 0, "parameters": ["INTRODUCTIONS"] },
@@ -58563,7 +58563,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -58574,7 +58574,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -58640,7 +58640,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -58660,7 +58660,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -58685,7 +58685,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -58808,7 +58808,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -58839,7 +58839,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 230, "indent": 0, "parameters": [32] },
             { "code": 121, "indent": 0, "parameters": [3298, 3298, 0] },
@@ -59029,7 +59029,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59078,7 +59078,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59091,7 +59091,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59124,7 +59124,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59142,7 +59142,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59153,7 +59153,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59206,7 +59206,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59219,7 +59219,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59232,7 +59232,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -59596,7 +59596,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 108, "indent": 0, "parameters": ["INTRODUCTIONS"] },
@@ -60033,7 +60033,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60044,7 +60044,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60110,7 +60110,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60130,7 +60130,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60155,7 +60155,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60276,7 +60276,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60307,7 +60307,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 230, "indent": 0, "parameters": [32] },
             { "code": 121, "indent": 0, "parameters": [3298, 3298, 0] },
@@ -60457,7 +60457,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60488,7 +60488,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60501,7 +60501,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60534,7 +60534,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60555,7 +60555,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60566,7 +60566,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60599,14 +60599,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"...\""] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60619,7 +60619,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60634,7 +60634,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"...\""] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -60683,7 +60683,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60696,7 +60696,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -60709,7 +60709,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -61165,7 +61165,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 108, "indent": 0, "parameters": ["INTRODUCTIONS"] },
@@ -61965,7 +61965,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 230, "indent": 0, "parameters": [40] },
@@ -62143,7 +62143,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62154,7 +62154,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62180,7 +62180,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62222,7 +62222,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62255,14 +62255,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 3, "parameters": ["\"...\""] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62279,7 +62279,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 3, "parameters": ["\"...\""] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -62298,7 +62298,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"...\""] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -62312,14 +62312,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"...\""] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62393,7 +62393,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62446,7 +62446,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62516,7 +62516,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62533,7 +62533,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62551,7 +62551,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62850,7 +62850,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62862,7 +62862,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62875,7 +62875,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -62889,7 +62889,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63260,7 +63260,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63294,7 +63294,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63349,7 +63349,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63372,7 +63372,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63476,7 +63476,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63517,14 +63517,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"Have fun.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63576,7 +63576,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -63599,7 +63599,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"Sure thing.\""] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -64390,7 +64390,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64421,7 +64421,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You interrupt a discussion..."]
+              "parameters": ["Zakłócasz przebieg rozmowy..."]
             },
             { "code": 230, "indent": 0, "parameters": [32] },
             { "code": 121, "indent": 0, "parameters": [3298, 3298, 0] },
@@ -64474,7 +64474,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\"Oh. The sleepy one got up.\""]
+              "parameters": ["\"Oh. Śniący got up.\""]
             },
             {
               "code": 102,
@@ -64639,7 +64639,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64670,7 +64670,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64683,7 +64683,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64716,7 +64716,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64733,7 +64733,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64784,7 +64784,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64797,7 +64797,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -64810,7 +64810,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -65202,7 +65202,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 0, "parameters": ["\"...\""] },
             { "code": 108, "indent": 0, "parameters": ["INTRODUCTIONS"] },
@@ -65488,7 +65488,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -65499,7 +65499,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -65551,7 +65551,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -65571,7 +65571,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -65596,7 +65596,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -65833,7 +65833,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -65911,7 +65911,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67411,7 +67411,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67429,14 +67429,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 1, "parameters": ["\"...\""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67467,14 +67467,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"...\""] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67492,7 +67492,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67505,7 +67505,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67560,7 +67560,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67571,14 +67571,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"...\""] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"How peculiar.\""] },
             {
@@ -67606,14 +67606,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 3, "parameters": ["\"Beats me.\""] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67632,14 +67632,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 3, "parameters": ["\"...\""] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67657,7 +67657,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67670,7 +67670,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67724,7 +67724,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67742,14 +67742,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 2, "parameters": ["\"...\""] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67783,7 +67783,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67794,7 +67794,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67812,7 +67812,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67823,14 +67823,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 3, "parameters": ["\"...\""] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 3, "parameters": ["\"Can you?\""] },
             {
@@ -67857,7 +67857,7 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67877,14 +67877,14 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 4, "parameters": ["\"...\""] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67906,7 +67906,7 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 4, "parameters": ["\"...\""] },
             { "code": 0, "indent": 4, "parameters": [] },
@@ -67921,14 +67921,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             { "code": 401, "indent": 3, "parameters": ["\"...\""] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67946,7 +67946,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -67959,7 +67959,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -68203,7 +68203,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -68266,7 +68266,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -68323,7 +68323,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -68360,7 +68360,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -68612,7 +68612,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -68675,7 +68675,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -68732,7 +68732,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -68769,7 +68769,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -69022,7 +69022,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -69085,7 +69085,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -69142,7 +69142,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -69179,7 +69179,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -69376,7 +69376,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -69398,7 +69398,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2827, 2827, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -69460,7 +69460,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -69482,7 +69482,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2829, 2829, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -75028,7 +75028,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -75065,7 +75065,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -75437,7 +75437,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -75474,7 +75474,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -75847,7 +75847,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -75884,7 +75884,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -76081,7 +76081,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -76103,7 +76103,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [3438, 3438, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -76165,7 +76165,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -76187,7 +76187,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [3439, 3439, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -79725,7 +79725,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -79767,7 +79767,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -80139,7 +80139,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -80181,7 +80181,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -80554,7 +80554,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off her head",
@@ -80596,7 +80596,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -80793,7 +80793,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -80815,7 +80815,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2701, 2701, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -80877,7 +80877,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -80899,7 +80899,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2702, 2702, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -81739,7 +81739,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -81802,7 +81802,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -81859,7 +81859,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -81896,7 +81896,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -82148,7 +82148,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -82211,7 +82211,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -82268,7 +82268,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -82305,7 +82305,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -82558,7 +82558,7 @@
                 [
                   "Use \\c[2]Brain flower\\c[0]",
                   "Use \\c[2]Heart flower\\c[0]",
-                  "Beat him",
+                  "Pobij",
                   "Medical diagnosis"
                 ],
                 -1,
@@ -82621,7 +82621,7 @@
               "parameters": ["You've laid down the seed for the flower."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Beat him"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Pobij"] },
             { "code": 117, "indent": 1, "parameters": [319] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -82678,7 +82678,7 @@
               "parameters": [
                 [
                   "Search",
-                  "Leave",
+                  "Odejdź",
                   "Use \\c[2]Devour\\c[0]",
                   "Harvest an organ",
                   "Saw off his head",
@@ -82715,7 +82715,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
@@ -82912,7 +82912,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Brain flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Brain flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -82934,7 +82934,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2827, 2827, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -82996,7 +82996,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Harvest \\c[2]Heart flower\\c[0]", "Leave"],
+                ["Harvest \\c[2]Heart flower\\c[0]", "Odejdź"],
                 1,
                 0,
                 2,
@@ -83018,7 +83018,7 @@
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 121, "indent": 1, "parameters": [2829, 2829, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Odejdź"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -86957,7 +86957,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -86968,7 +86968,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -88351,7 +88351,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,
@@ -88362,7 +88362,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\>\\i[76]\\}AN WITH CHECKERED PANTS\\{\\<"]
+              "parameters": ["\\>\\i[76]\\}ĘŻCZYZNA W SPODNIACH W KRATKĘ\\{\\<"]
             },
             {
               "code": 401,

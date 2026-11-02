@@ -14629,7 +14629,7 @@
                   "Investigate",
                   "Search",
                   "Use \\c[2]Necromancy\\c[0]",
-                  "Leave"
+                  "Odejdź"
                 ],
                 -1,
                 0,
@@ -14677,7 +14677,7 @@
             },
             { "code": 121, "indent": 2, "parameters": [781, 781, 0] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -14700,7 +14700,7 @@
                   "Investigate",
                   "Search",
                   "Use \\c[2]Necromancy\\c[0]",
-                  "Leave"
+                  "Odejdź"
                 ],
                 -1,
                 0,
@@ -14755,7 +14755,7 @@
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [3, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -14772,7 +14772,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Investigate", "Search", "Leave"], -1, 0, 2, 0]
+              "parameters": [["Investigate", "Search", "Odejdź"], -1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Investigate"] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
@@ -14807,7 +14807,7 @@
             },
             { "code": 401, "indent": 3, "parameters": ["thoroughly already."] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 2, "parameters": [2, "Odejdź"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
