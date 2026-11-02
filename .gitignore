@@ -1,0 +1,13 @@
+.vscode/
+audio/
+fonts/
+icon/
+img/
+js_copies/
+movies/
+save/
+__MACOSX/
+.DS_Store
+js/
+!plugins.js
+!plugins/TY_DetailedEquip.js
