@@ -76,6 +76,17 @@ pause
 
 ---
 
+## Updating Translation Progress
+
+Install the language-detection dependency and run the status updater from the project directory:
+
+```sh
+python -m pip install -r requirements.txt
+python update_status.py
+```
+
+The script scans JSON files under `data/` and rewrites `translation_status.txt`.
+
 # Credits
 
 - [ScorpGaming4432](https://github.com/ScorpGaming4432) – author, lead translator, and editor.
